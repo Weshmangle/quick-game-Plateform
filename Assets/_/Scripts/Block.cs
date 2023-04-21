@@ -8,7 +8,7 @@ public class Block : MonoBehaviour
 
     void Start()
     {
-        transform.position =  Vector3.right * 7 - Vector3.forward;
+        transform.position =  Vector3.right * 7 - Vector3.forward * 5;
     }
 
     void Update()
