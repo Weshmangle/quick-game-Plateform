@@ -5,6 +5,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public SOBlocksList blocks;
+    public PlayerController PlayerController;
     
     void Start()
     {
