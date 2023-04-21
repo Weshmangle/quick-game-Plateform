@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: Blocks
   m_EditorClassIdentifier: 
   blocks:
-  - {fileID: 7128933535228907313, guid: 0d72deb0530e9894fb37173980fb9416, type: 3}
   - {fileID: -6107787017590022600, guid: 27f9b8804652e254bac46904363fd62a, type: 3}
+  - {fileID: -6107787017590022600, guid: 438b70e61932d1f47a247893d269bdf1, type: 3}
+  - {fileID: -6107787017590022600, guid: ebd85d729eb531140b5d31f9e5518214, type: 3}
+  - {fileID: 7128933535228907313, guid: 0d72deb0530e9894fb37173980fb9416, type: 3}
   - {fileID: 2873024834805733033, guid: 25d8551377aca8d46bfc61988c3f4d36, type: 3}
-  - {fileID: -5022410909394326074, guid: f397f2e441980cd48818870bf458bf95, type: 3}
-  Speed: 5
+  SpeedMoving: 5
+  SpeedSpawn: 1
